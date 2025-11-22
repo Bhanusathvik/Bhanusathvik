@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhanusathvik
-- 👀 I’m interested in Artificial Intelligence 
-- 🌱 I’m currently learning Java Stack and fundamentals of Machine Learning
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Bhanusathvik16@gmail.com
 
